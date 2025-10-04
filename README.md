@@ -1,2 +1,2 @@
 # Email-Spam-Detection-System
-With the rapid growth of email communication, spam messages have become a major nuisance and a serious security threat, including phishing, malware, and fraud. Traditional rule-based filters often fail because spammers constantly change tactics, making automatic detection challenging. 
+The Email Spam Detection System uses Machine Learning to classify emails as spam or ham. Using Naïve Bayes and TF-IDF, it preprocesses text, trains a model, and predicts new emails efficiently, providing an adaptive, accurate solution to filter spam and improve email security.
